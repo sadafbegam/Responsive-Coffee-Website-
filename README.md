@@ -5,8 +5,6 @@ A **responsive coffee shop website** built using **HTML, CSS, and JavaScript** t
 
 ## 🔗 Live Demo
 
-
-
 View the live site here:
 https://sadafbegam.github.io/Responsive-Coffee-Website-
 :contentReference[oaicite:0]{index=0}
