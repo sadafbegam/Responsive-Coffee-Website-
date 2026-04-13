@@ -4,18 +4,6 @@ https://sadafbegam.github.io/Responsive-Coffee-Website-
 A **responsive coffee shop website** built using **HTML, CSS, and JavaScript** that adapts to different screen sizes and provides an engaging browsing experience.
 
 ## 🔗 Live Demo
-
-
-
-
-
-
-
-
-
-
-
-
 view the live site here:
 https://sadafbegam.github.io/Responsive-Coffee-Website-
 :contentReference[oaicite:0]{index=0}
