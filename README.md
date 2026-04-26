@@ -12,6 +12,9 @@ This project is a modern, responsive website for a coffee brand. It is designed 
 
 ---
 
+
+
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – Page structure and content  
