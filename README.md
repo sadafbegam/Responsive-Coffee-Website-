@@ -9,7 +9,7 @@ https://sadafbegam.github.io/Responsive-Coffee-Website-
 ## 🧩 Project Overview
 This project is a modern, responsive website for a coffee brand. It is designed with a **mobile-first approach** and optimized for viewing on mobile, tablet, and desktop devices. The layout adjusts smoothly across screen sizes, offering intuitive navigation and clean visuals through HTML structure, CSS styling, and JavaScript interactions.
 ---
-
+abcdeth
 ## 🛠️ Technologies Used
 
 - **HTML5** – Page structure and content  
